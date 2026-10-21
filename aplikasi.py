@@ -13,3 +13,5 @@ saya dari replit dan sudah masuk pesannya dan akan mengirim ini untuk melihat ma
 iya sudah. oke thnank you 
 
 ayoolah ini aku baru mempelajari branch menggunakan shell . apakah masuk ke gitHub nya (replit shell )
+
+ayolah ini baris ke 2 dari branch (replit shell)
